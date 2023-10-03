@@ -20,7 +20,7 @@ const StyledAside = styled.div`
 const ProfileImage = styled.img`
   max-width: 100%;
   height: auto;
-  border-radius: 50%; /* Adicione um pouco de arredondamento para a imagem */
+  border-radius: 50%; 
 `;
 
 
@@ -30,8 +30,8 @@ const StyledParagraph = styled.p`
 
 const SocialLinks = styled.div`
   display: flex;
-  justify-content: space-between; /* Alinha os itens nas extremidades */
-  align-items: center; /* Centraliza verticalmente os itens */
+  justify-content: space-between;
+  align-items: center; 
 `;
 
 const SocialLink = styled.a`
@@ -40,7 +40,7 @@ const SocialLink = styled.a`
   margin-bottom: 10px;
 
   &:hover {
-    color: blue; /* Mude a cor do link ao passar o mouse */
+    color: blue; 
   }
 `;
 
