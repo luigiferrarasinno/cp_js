@@ -21,7 +21,7 @@ function Header() {
     <div>
       <Styledheader>
         <h1>titulo</h1>
-        <a href="">sobre nos</a>
+        <a href="">home</a>
         <a href="">sobre nos</a>
         <a href="">contato</a>
         <a href="">blog</a>
