@@ -5,7 +5,8 @@ import Footer from "../src/components/footer/footer"
 import styled from 'styled-components';
 
 const StyledApp = styled.div`
- min-height: 1200px; 
+ min-height: 1200px;
+ margin:0;
 `;
 function App() {
   return (
